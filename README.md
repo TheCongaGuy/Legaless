@@ -1,2 +1,2 @@
 # Legaless
-A little game I made back in highschool for a No Keyboard game jam
+A little game I made back in highschool for the No Keyboard Game Jam. It was extremely hastily put together and the first time I have programmed something without any help at all. Needless to say, the code is aweful as this was made back in 2019, before I took any classes in Computer Science. That's not to say I wasn't ambitious though. I added music, sound effects, and a hidden easter egg for completing the final secret level. I even implemented (very limited) options for volume and sound effect control (though it needed a patch after the game jam end date).
